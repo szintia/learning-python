@@ -1,6 +1,6 @@
 # learning-python
 
-Version: 3.11
+Version: 3.11 <br>
 Python standard lib: https://docs.python.org/3/library/
 
 Creating a new python file and opening it via Visual Studio<br>
