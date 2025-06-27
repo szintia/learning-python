@@ -1,5 +1,7 @@
 # learning-python
 
+Version: 3.11
+
 Creating a new python file and opening it via Visual Studio<br>
 ![image](https://github.com/user-attachments/assets/bec2ada1-8bf9-4f14-a6dc-905649b86895) <br>
 
